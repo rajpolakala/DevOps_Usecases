@@ -1,0 +1,1 @@
+Migrating a local Java-based frontend application to Amazon EKS (Elastic Kubernetes Service) requires careful planning. I'll provide a detailed guide based on the AWS Well-Architected Framework, focusing on the operational excellence, security, reliability, performance efficiency, and cost optimization pillars.
